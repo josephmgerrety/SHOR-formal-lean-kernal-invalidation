@@ -1,0 +1,6 @@
+.lake/
+.build-4.36.0/
+verification/
+*.olean
+*.ilean
+private-declarations.json

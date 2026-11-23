@@ -1,0 +1,19 @@
+import ShorSuite
+
+#print Shor1994Invalidation.GoodFirst
+#print Shor1994Invalidation.GoodPair
+#print Shor1994Invalidation.PaperUnitExistenceClaim
+#print Shor1994Invalidation.PaperCompletePairUnitClaim
+#check Shor1994Invalidation.paper_unit_existence_claim_false
+#check Shor1994Invalidation.paper_complete_pair_unit_claim_false
+#check Shor1994Invalidation.actual_qft_conditional_bound_false
+#print LeanMeasurementNoGo.PerfectlyDistinguishes
+#check ShorFiniteCopyNoGo.no_perfect_decoded_measurement_on_graph_copies
+#check ShorFiniteCopyNoGo.every_group_order_and_finite_copy_count
+#check Shor2AdicTorsionHierarchy.good_residue_zero_1997
+#check Shor2AdicTorsionHierarchy.every_good_coefficient_shape_1997
+#check Shor2AdicMasterBridge.two_adic_workspace_line_defect_and_survival
+#print ShorResidueWorkspace.residueLabel
+#print ShorResidueWorkspace.labelWorkspace
+#check ShorResidueWorkspace.residue_workspace_variance
+#check ShorResidueWorkspace.two_adic_residue_workspace_line_survival

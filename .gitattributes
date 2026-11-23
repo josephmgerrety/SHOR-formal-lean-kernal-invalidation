@@ -1,0 +1,8 @@
+# Preserve the exact checked source and manifest bytes across platforms.
+*.lean -text
+*.json -text
+*.txt -text
+*.ps1 -text
+*.toml -text
+lean-toolchain -text
+*.gz binary

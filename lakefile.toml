@@ -1,0 +1,68 @@
+name = "ShorProofSuite"
+version = "1.0.0"
+defaultTargets = ["ShorSuite"]
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "fc4f59e577feb1a4956671bc04ac18aaaf8cd842"
+
+[[lean_lib]]
+name = "Shor1994Invalidation"
+
+[[lean_lib]]
+name = "ShorGeneratorCertificate"
+
+[[lean_lib]]
+name = "ShorPrimorialCertificate"
+
+[[lean_lib]]
+name = "Shor1994Integrated"
+
+[[lean_lib]]
+name = "ShorWindowFamily"
+
+[[lean_lib]]
+name = "ShorWindowSourceBridge"
+
+[[lean_lib]]
+name = "LeanFiberVariance"
+
+[[lean_lib]]
+name = "LeanFourierParseval"
+
+[[lean_lib]]
+name = "LeanFiberFourier"
+
+[[lean_lib]]
+name = "LeanFourierNormalization"
+
+[[lean_lib]]
+name = "LeanMeasurementNoGo"
+
+[[lean_lib]]
+name = "LeanGraphCopies"
+
+[[lean_lib]]
+name = "LeanFiniteCopyNoGo"
+
+[[lean_lib]]
+name = "Shor2AdicTorsionHierarchy"
+
+[[lean_lib]]
+name = "Shor2AdicMasterBridge"
+
+[[lean_lib]]
+name = "ShorArithmeticStrengthening"
+
+[[lean_lib]]
+name = "Shor2AdicQFTBridge"
+
+[[lean_lib]]
+name = "ShorResidueWorkspace"
+
+[[lean_lib]]
+name = "ShorSuite"
+
+[[lean_lib]]
+name = "AxiomAudit"

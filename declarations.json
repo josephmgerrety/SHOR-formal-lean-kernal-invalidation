@@ -1,0 +1,1759 @@
+[
+  {
+    "name": "Shor1994Invalidation.p",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 27,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.n",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 28,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.q",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 29,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.h",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 30,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.parameter_arithmetic",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 32,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.p_is_prime",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 36,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.primePrefix",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 39,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.primeProduct",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 40,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.candidateFactors",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 41,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.selectedFactor",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 43,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paperQ",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 46,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paper_modulus_certificate",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 49,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.prime_prefix_complete",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 58,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.prime_prefix_contains_all_primes_through_seventeen",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 64,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.no_larger_removable_factor",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 69,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.GoodFirst",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 80,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.GoodPair",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 90,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.good_pair_has_good_first",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 96,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.reconstructedInteger",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 102,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paper_rounding_identity",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 105,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paper_rounding_and_congruence",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 119,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.nearest_integer_unique",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 132,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.every_good_residue_zero",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 147,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.every_good_coefficient_shape",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 160,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.each_index_is_good",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 176,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.good_first_iff_exact_lattice",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 182,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.goodCoefficientSet",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 190,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.good_coefficient_membership",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 193,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.good_coefficient_count",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 207,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.divisibleGoodCoefficients",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 215,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.divisible_coefficient_set_exact",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 218,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.divisible_good_coefficient_count",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 249,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.printed_ten_over_thirty_two_bound_false",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 259,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.no_good_coefficient_coprime_32",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 266,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.LargePrimePowerDivisor",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 282,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.PaperUnitExistenceClaim",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 285,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.thirty_two_is_required",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 291,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paper_unit_existence_claim_false",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 295,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.no_good_pair_unit_32",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 302,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.PaperCompletePairUnitClaim",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 306,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paper_complete_pair_unit_claim_false",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 313,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.explicit_complete_good_pair",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 322,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.explicit_decoded_relation",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 325,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paperGraphOutput",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 333,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paperGraphFiber",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 336,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_graph_fiber_iff",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 338,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paperFourierNumerator",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 348,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.paperFourierRawNumerator",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 357,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.power_reduction_at_root_of_unity",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 364,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.raw_fourier_equals_reduced",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 373,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_fourier_fiber_reindex",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 387,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.graphFirstExponent",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 420,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_graph_fiber",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 422,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.graph_fiber_label",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 425,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.phase_residue_on_every_fiber",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 431,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.fiberNumerator",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 440,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_fourier_equals_fiber",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 444,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.fiber_numerator_exact",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 451,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.fiber_amplitude_exact",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 456,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.fiber_born_probability",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 464,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.good_pair_probability",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 476,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.good_pair_probability_positive",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 492,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.goodSecondFrequency",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 503,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.every_index_is_complete_good_pair",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 505,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.every_complete_good_pair_exact",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 534,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.every_complete_good_pair_has_unique_index",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 575,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.complete_good_pair_iff_indexed",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 587,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.phase_residue_all_good_indices",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 599,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.fiberNumeratorAllGood",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 638,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_fourier_equals_all_good",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 644,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_raw_fourier_equals_all_good",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 651,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.fiber_numerator_all_good",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 659,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.fiber_amplitude_all_good",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 665,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.fiber_born_all_good",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 673,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.pair_probability_all_good",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 685,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_raw_pair_probability_all_good",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 701,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.total_good_probability",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 727,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_raw_total_good_probability",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 745,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.evenGoodIndices",
+    "module": "Shor1994Invalidation",
+    "kind": "def",
+    "line": 767,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.even_good_indices_exact",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 770,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.even_good_indices_count",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 785,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.source_raw_divisible_good_probability",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 794,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.physical_conditional_bound_false",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 818,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.explicit_qft_root_pow",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 839,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.explicit_qft_root_normSq_one",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 854,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.explicit_qft_root_primitive",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 862,
+    "private": false
+  },
+  {
+    "name": "Shor1994Invalidation.actual_qft_conditional_bound_false",
+    "module": "Shor1994Invalidation",
+    "kind": "theorem",
+    "line": 871,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.p_prime",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 8,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.fifth_power_target",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 11,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.full_power",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 15,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.half_residue",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 165,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.half_power",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 177,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.third_residue",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 183,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.third_power",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 195,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.seventh_residue",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 201,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.seventh_power",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 213,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.eleventh_residue",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 219,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.eleventh_power",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 231,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.thirteenth_residue",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 237,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.thirteenth_power",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 249,
+    "private": false
+  },
+  {
+    "name": "ShorGenerator.generator_order",
+    "module": "ShorGeneratorCertificate",
+    "kind": "theorem",
+    "line": 255,
+    "private": false
+  },
+  {
+    "name": "ShorPrimorial.prime_product",
+    "module": "ShorPrimorialCertificate",
+    "kind": "theorem",
+    "line": 8,
+    "private": false
+  },
+  {
+    "name": "ShorPrimorial.prime_factors",
+    "module": "ShorPrimorialCertificate",
+    "kind": "theorem",
+    "line": 12,
+    "private": false
+  },
+  {
+    "name": "ShorPrimorial.quotient_by_five",
+    "module": "ShorPrimorialCertificate",
+    "kind": "theorem",
+    "line": 27,
+    "private": false
+  },
+  {
+    "name": "ShorPrimorial.above_p",
+    "module": "ShorPrimorialCertificate",
+    "kind": "theorem",
+    "line": 31,
+    "private": false
+  },
+  {
+    "name": "ShorPrimorial.quotient_by_seven",
+    "module": "ShorPrimorialCertificate",
+    "kind": "theorem",
+    "line": 35,
+    "private": false
+  },
+  {
+    "name": "ShorPrimorial.below_p",
+    "module": "ShorPrimorialCertificate",
+    "kind": "theorem",
+    "line": 39,
+    "private": false
+  },
+  {
+    "name": "ShorPrimorial.no_larger_removal",
+    "module": "ShorPrimorialCertificate",
+    "kind": "theorem",
+    "line": 43,
+    "private": false
+  },
+  {
+    "name": "ShorPrimorial.five_is_largest",
+    "module": "ShorPrimorialCertificate",
+    "kind": "theorem",
+    "line": 52,
+    "private": false
+  },
+  {
+    "name": "Shor1994Integrated.certified_prime_field_counterexample",
+    "module": "Shor1994Integrated",
+    "kind": "theorem",
+    "line": 7,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.GoodFirst",
+    "module": "ShorWindowFamily",
+    "kind": "def",
+    "line": 13,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.good_residue_zero",
+    "module": "ShorWindowFamily",
+    "kind": "theorem",
+    "line": 19,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.every_good_coefficient_shape",
+    "module": "ShorWindowFamily",
+    "kind": "theorem",
+    "line": 47,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.each_index_is_good",
+    "module": "ShorWindowFamily",
+    "kind": "theorem",
+    "line": 79,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.good_first_iff_exact_lattice",
+    "module": "ShorWindowFamily",
+    "kind": "theorem",
+    "line": 98,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.no_good_unit_of_common_factor",
+    "module": "ShorWindowFamily",
+    "kind": "theorem",
+    "line": 109,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.SampleSuppliesUnit",
+    "module": "ShorWindowFamily",
+    "kind": "def",
+    "line": 127,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.no_finite_good_sample_supplies_unit",
+    "module": "ShorWindowFamily",
+    "kind": "theorem",
+    "line": 133,
+    "private": false
+  },
+  {
+    "name": "ShorWindowFamily.original_instance_is_a_family_member",
+    "module": "ShorWindowFamily",
+    "kind": "theorem",
+    "line": 144,
+    "private": false
+  },
+  {
+    "name": "ShorWindowSourceBridge.source_good_first_is_family_good_first",
+    "module": "ShorWindowSourceBridge",
+    "kind": "theorem",
+    "line": 6,
+    "private": false
+  },
+  {
+    "name": "ShorWindowSourceBridge.source_complete_pair_has_no_unit",
+    "module": "ShorWindowSourceBridge",
+    "kind": "theorem",
+    "line": 11,
+    "private": false
+  },
+  {
+    "name": "ShorWindowSourceBridge.source_claim_false_via_general_family",
+    "module": "ShorWindowSourceBridge",
+    "kind": "theorem",
+    "line": 21,
+    "private": false
+  },
+  {
+    "name": "ShorWindowSourceBridge.certified_source_counterexample_via_general_family",
+    "module": "ShorWindowSourceBridge",
+    "kind": "theorem",
+    "line": 29,
+    "private": false
+  },
+  {
+    "name": "LeanFiberVariance.norm_sum_sq_as_double_inner",
+    "module": "LeanFiberVariance",
+    "kind": "theorem",
+    "line": 17,
+    "private": false
+  },
+  {
+    "name": "LeanFiberVariance.pairwise_variance",
+    "module": "LeanFiberVariance",
+    "kind": "theorem",
+    "line": 23,
+    "private": false
+  },
+  {
+    "name": "LeanFiberVariance.normalized_fiber_variance",
+    "module": "LeanFiberVariance",
+    "kind": "theorem",
+    "line": 35,
+    "private": false
+  },
+  {
+    "name": "LeanFiberVariance.fiber_variance_zero_iff",
+    "module": "LeanFiberVariance",
+    "kind": "theorem",
+    "line": 49,
+    "private": false
+  },
+  {
+    "name": "LeanFiberVariance.fiber_coherence_iff",
+    "module": "LeanFiberVariance",
+    "kind": "theorem",
+    "line": 74,
+    "private": false
+  },
+  {
+    "name": "LeanFiberVariance.exact_coherence_defect",
+    "module": "LeanFiberVariance",
+    "kind": "theorem",
+    "line": 91,
+    "private": false
+  },
+  {
+    "name": "LeanFourierParseval.standard_character_conjugate",
+    "module": "LeanFourierParseval",
+    "kind": "theorem",
+    "line": 13,
+    "private": false
+  },
+  {
+    "name": "LeanFourierParseval.standard_character_product",
+    "module": "LeanFourierParseval",
+    "kind": "theorem",
+    "line": 18,
+    "private": false
+  },
+  {
+    "name": "LeanFourierParseval.standard_character_sum",
+    "module": "LeanFourierParseval",
+    "kind": "theorem",
+    "line": 25,
+    "private": false
+  },
+  {
+    "name": "LeanFourierParseval.twisted_inner",
+    "module": "LeanFourierParseval",
+    "kind": "theorem",
+    "line": 35,
+    "private": false
+  },
+  {
+    "name": "LeanFourierParseval.fourier_inner_sum",
+    "module": "LeanFourierParseval",
+    "kind": "theorem",
+    "line": 42,
+    "private": false
+  },
+  {
+    "name": "LeanFourierParseval.vector_parseval",
+    "module": "LeanFourierParseval",
+    "kind": "theorem",
+    "line": 65,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.rawNumerator",
+    "module": "LeanFiberFourier",
+    "kind": "def",
+    "line": 14,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.amplitude",
+    "module": "LeanFiberFourier",
+    "kind": "def",
+    "line": 21,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.raw_fiber_formula",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 27,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.raw_zero_frequencies",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 44,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.standard_character_norm",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 53,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.standard_character_sum",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 58,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.graph_preparation_normalized",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 69,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.amplitude_norm_sq",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 77,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.fourier_pair_probability",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 84,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.zero_pair_probability",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 94,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.raw_of_fiber_constant",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 102,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.ideal_pair_law_of_fiber_constant",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 115,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.line_probability_formula",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 139,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.line_probability_one_iff_fiber_constant",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 157,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.ideal_pair_law_iff_fiber_constant",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 169,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.exact_fourier_line_defect",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 189,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.fiber_constant_iff_output_factor",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 204,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.ideal_pair_law_iff_output_factor",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 216,
+    "private": false
+  },
+  {
+    "name": "LeanFiberFourier.unequal_fiber_vectors_forbid_ideal_law",
+    "module": "LeanFiberFourier",
+    "kind": "theorem",
+    "line": 226,
+    "private": false
+  },
+  {
+    "name": "LeanFourierNormalization.shifted_parseval",
+    "module": "LeanFourierNormalization",
+    "kind": "theorem",
+    "line": 12,
+    "private": false
+  },
+  {
+    "name": "LeanFourierNormalization.fixed_first_frequency_and_output_mass",
+    "module": "LeanFourierNormalization",
+    "kind": "theorem",
+    "line": 25,
+    "private": false
+  },
+  {
+    "name": "LeanFourierNormalization.total_probability_one",
+    "module": "LeanFourierNormalization",
+    "kind": "theorem",
+    "line": 38,
+    "private": false
+  },
+  {
+    "name": "LeanMeasurementNoGo.FinitePOVM",
+    "module": "LeanMeasurementNoGo",
+    "kind": "structure",
+    "line": 13,
+    "private": false
+  },
+  {
+    "name": "LeanMeasurementNoGo.PerfectlyDistinguishes",
+    "module": "LeanMeasurementNoGo",
+    "kind": "def",
+    "line": 20,
+    "private": false
+  },
+  {
+    "name": "LeanMeasurementNoGo.wrong_effect_annihilates",
+    "module": "LeanMeasurementNoGo",
+    "kind": "theorem",
+    "line": 25,
+    "private": false
+  },
+  {
+    "name": "LeanMeasurementNoGo.correct_effect_fixes",
+    "module": "LeanMeasurementNoGo",
+    "kind": "theorem",
+    "line": 32,
+    "private": false
+  },
+  {
+    "name": "LeanMeasurementNoGo.perfect_discrimination_implies_orthogonal",
+    "module": "LeanMeasurementNoGo",
+    "kind": "theorem",
+    "line": 49,
+    "private": false
+  },
+  {
+    "name": "LeanMeasurementNoGo.no_perfect_povm_of_nonzero_inner",
+    "module": "LeanMeasurementNoGo",
+    "kind": "theorem",
+    "line": 68,
+    "private": false
+  },
+  {
+    "name": "LeanMeasurementNoGo.decoded_measurement_gives_label_povm",
+    "module": "LeanMeasurementNoGo",
+    "kind": "theorem",
+    "line": 76,
+    "private": false
+  },
+  {
+    "name": "LeanMeasurementNoGo.no_perfect_decoded_povm_of_nonzero_inner",
+    "module": "LeanMeasurementNoGo",
+    "kind": "theorem",
+    "line": 114,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.Register",
+    "module": "LeanGraphCopies",
+    "kind": "abbrev",
+    "line": 14,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.Basis",
+    "module": "LeanGraphCopies",
+    "kind": "abbrev",
+    "line": 15,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.outputWord",
+    "module": "LeanGraphCopies",
+    "kind": "def",
+    "line": 17,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.graphVector",
+    "module": "LeanGraphCopies",
+    "kind": "def",
+    "line": 20,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.graphVector_apply",
+    "module": "LeanGraphCopies",
+    "kind": "theorem",
+    "line": 25,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.singleCopyAmplitude",
+    "module": "LeanGraphCopies",
+    "kind": "def",
+    "line": 30,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.graphVector_is_independent_copy_product",
+    "module": "LeanGraphCopies",
+    "kind": "theorem",
+    "line": 34,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.graphVector_norm_sq",
+    "module": "LeanGraphCopies",
+    "kind": "theorem",
+    "line": 54,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.graphVector_norm",
+    "module": "LeanGraphCopies",
+    "kind": "theorem",
+    "line": 63,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.graphVector_inner_re_pos",
+    "module": "LeanGraphCopies",
+    "kind": "theorem",
+    "line": 69,
+    "private": false
+  },
+  {
+    "name": "ShorGraphCopies.graphVector_inner_ne_zero",
+    "module": "LeanGraphCopies",
+    "kind": "theorem",
+    "line": 97,
+    "private": false
+  },
+  {
+    "name": "ShorFiniteCopyNoGo.no_perfect_measurement_on_graph_copies",
+    "module": "LeanFiniteCopyNoGo",
+    "kind": "theorem",
+    "line": 10,
+    "private": false
+  },
+  {
+    "name": "ShorFiniteCopyNoGo.no_perfect_decoded_measurement_on_graph_copies",
+    "module": "LeanFiniteCopyNoGo",
+    "kind": "theorem",
+    "line": 20,
+    "private": false
+  },
+  {
+    "name": "ShorFiniteCopyNoGo.normalized_states_and_no_perfect_measurement",
+    "module": "LeanFiniteCopyNoGo",
+    "kind": "theorem",
+    "line": 35,
+    "private": false
+  },
+  {
+    "name": "ShorFiniteCopyNoGo.every_group_order_and_finite_copy_count",
+    "module": "LeanFiniteCopyNoGo",
+    "kind": "theorem",
+    "line": 43,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.binary_control_stage_invariance",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 16,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.elliptic_116_six_of_seven_controls_identical",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 33,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.elliptic_116_mod4_upper_controls_identical",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 41,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.shor_100_six_of_seven_controls_identical",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 50,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.shor_101_multiplicative_sign_flip",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 57,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.coherence_block_phase_difference_invariance",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 65,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.residue_class_fiber_shift",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 78,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.residueClassFiberNumerator",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "def",
+    "line": 89,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.residue_class_numerator_shifted_fiber",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 95,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.zmod_fiber_sum_invariant_on_residue_class",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 105,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.rounded_congruence_satisfied_by_entire_coset",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 132,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.modular_congruence_coset_invariance",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 142,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.GoodFirst1997",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "abbrev",
+    "line": 153,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.good_residue_zero_1997",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 159,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.every_good_coefficient_shape_1997",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 188,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.shor_100_good_table_row_1",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 221,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.shor_100_good_table_row_2",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 229,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.shor_100_good_table_row_3",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 236,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.paddedGraphFiber",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "def",
+    "line": 256,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.padded_graph_fiber_period_step",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 258,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.padded_graph_fiber_half_period",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 269,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.rawPaddedFiberSum",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "def",
+    "line": 276,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.raw_padded_general_torsion_factorization",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 282,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.raw_padded_fiber_sum_factorization",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 318,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.zero_column_of_half_period_neg_one",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 349,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.elliptic_116_and_shor_100_zero_column_frequencies",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 357,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.hadamardUnnorm",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "def",
+    "line": 372,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.hadamardMod2",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "def",
+    "line": 375,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.hadamard_int_sq_eq_two_id",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 377,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.hadamard_mod2_sq_eq_zero",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 383,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.booleanSignCharacter",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "def",
+    "line": 388,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.boolean_sign_character_period_two",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 390,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.parity_twist_shifts_second_frequency",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 398,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.first_marginal_invariant_of_frequency_shift",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 417,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.even_reduced_order_collision_even_diff",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 425,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.parity_phase_product_one_of_same_parity",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 444,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.second_marginal_invariant_of_even_collisions",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 455,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicTorsionHierarchy.elliptic_116_and_shor_100_collisions_preserve_parity",
+    "module": "Shor2AdicTorsionHierarchy",
+    "kind": "theorem",
+    "line": 485,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicMasterBridge.two_adic_workspace_line_defect_and_survival",
+    "module": "Shor2AdicMasterBridge",
+    "kind": "theorem",
+    "line": 29,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicMasterBridge.source_good_pair_sixteen_coset_blindness",
+    "module": "Shor2AdicMasterBridge",
+    "kind": "theorem",
+    "line": 67,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicMasterBridge.source_even_good_pair_thirty_two_coset_blindness",
+    "module": "Shor2AdicMasterBridge",
+    "kind": "theorem",
+    "line": 81,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicMasterBridge.four_interlocking_shor_obstructions",
+    "module": "Shor2AdicMasterBridge",
+    "kind": "theorem",
+    "line": 108,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.root_power_reduce",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 9,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.explicit_qft_128_root_primitive",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 18,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.explicit_qft_128_root_pow",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 23,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.explicit_qft_128_root_half_period",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 27,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.certified_root_zero_columns",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 37,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.actual_qft_zero_columns",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 57,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.actual_qft_zero_column_born_mass",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 67,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.GoodPair1997",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "abbrev",
+    "line": 97,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.shor_100_complete_table_rows",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 102,
+    "private": false
+  },
+  {
+    "name": "Shor2AdicQFTBridge.odd_torsion_filter_counterexample",
+    "module": "Shor2AdicQFTBridge",
+    "kind": "theorem",
+    "line": 109,
+    "private": false
+  },
+  {
+    "name": "ShorArithmeticStrengthening.GoodCoefficientKernel",
+    "module": "ShorArithmeticStrengthening",
+    "kind": "def",
+    "line": 8,
+    "private": false
+  },
+  {
+    "name": "ShorArithmeticStrengthening.all_good_congruences_exact_kernel",
+    "module": "ShorArithmeticStrengthening",
+    "kind": "theorem",
+    "line": 14,
+    "private": false
+  },
+  {
+    "name": "ShorArithmeticStrengthening.sixteen_distinct_common_candidates",
+    "module": "ShorArithmeticStrengthening",
+    "kind": "theorem",
+    "line": 33,
+    "private": false
+  },
+  {
+    "name": "ShorArithmeticStrengthening.power_two_modulus_for_96097",
+    "module": "ShorArithmeticStrengthening",
+    "kind": "theorem",
+    "line": 39,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.BalancedLabels",
+    "module": "ShorResidueWorkspace",
+    "kind": "def",
+    "line": 10,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.balanced_label_distance_sum",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 15,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.balanced_workspace_variance",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 40,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.balanced_workspace_variance_fraction",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 56,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.balanced_workspace_line_defect_and_survival",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 74,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.two_adic_balanced_workspace_survival",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 100,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.labelWorkspace",
+    "module": "ShorResidueWorkspace",
+    "kind": "def",
+    "line": 117,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.label_workspace_norm",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 121,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.label_workspace_distance",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 125,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.canonical_label_workspace_survival",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 137,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.residueLabel",
+    "module": "ShorResidueWorkspace",
+    "kind": "def",
+    "line": 148,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.residue_labels_balanced",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 152,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.residue_workspace_variance",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 196,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.residue_workspace_line_survival",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 207,
+    "private": false
+  },
+  {
+    "name": "ShorResidueWorkspace.two_adic_residue_workspace_line_survival",
+    "module": "ShorResidueWorkspace",
+    "kind": "theorem",
+    "line": 216,
+    "private": false
+  }
+]
