@@ -1,0 +1,313 @@
+'Shor1994Invalidation.p' does not depend on any axioms
+'Shor1994Invalidation.n' does not depend on any axioms
+'Shor1994Invalidation.q' does not depend on any axioms
+'Shor1994Invalidation.h' does not depend on any axioms
+'Shor1994Invalidation.parameter_arithmetic' depends on axioms: [propext]
+'Shor1994Invalidation.p_is_prime' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.primePrefix' does not depend on any axioms
+'Shor1994Invalidation.primeProduct' does not depend on any axioms
+'Shor1994Invalidation.candidateFactors' does not depend on any axioms
+'Shor1994Invalidation.selectedFactor' does not depend on any axioms
+'Shor1994Invalidation.paperQ' does not depend on any axioms
+'Shor1994Invalidation.paper_modulus_certificate' does not depend on any axioms
+'Shor1994Invalidation.prime_prefix_complete' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.prime_prefix_contains_all_primes_through_seventeen' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor1994Invalidation.no_larger_removable_factor' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.GoodFirst' depends on axioms: [propext]
+'Shor1994Invalidation.GoodPair' depends on axioms: [propext]
+'Shor1994Invalidation.good_pair_has_good_first' depends on axioms: [propext]
+'Shor1994Invalidation.reconstructedInteger' does not depend on any axioms
+'Shor1994Invalidation.paper_rounding_identity' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.paper_rounding_and_congruence' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.nearest_integer_unique' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.every_good_residue_zero' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.every_good_coefficient_shape' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.each_index_is_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.good_first_iff_exact_lattice' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.goodCoefficientSet' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.good_coefficient_membership' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.good_coefficient_count' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.divisibleGoodCoefficients' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.divisible_coefficient_set_exact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.divisible_good_coefficient_count' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.printed_ten_over_thirty_two_bound_false' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor1994Invalidation.no_good_coefficient_coprime_32' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.LargePrimePowerDivisor' depends on axioms: [propext]
+'Shor1994Invalidation.PaperUnitExistenceClaim' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.thirty_two_is_required' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.paper_unit_existence_claim_false' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.no_good_pair_unit_32' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.PaperCompletePairUnitClaim' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.paper_complete_pair_unit_claim_false' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.explicit_complete_good_pair' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.explicit_decoded_relation' depends on axioms: [propext]
+'Shor1994Invalidation.paperGraphOutput' does not depend on any axioms
+'Shor1994Invalidation.paperGraphFiber' does not depend on any axioms
+'Shor1994Invalidation.source_graph_fiber_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.paperFourierNumerator' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.paperFourierRawNumerator' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.power_reduction_at_root_of_unity' depends on axioms: [propext]
+'Shor1994Invalidation.raw_fourier_equals_reduced' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.source_fourier_fiber_reindex' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.graphFirstExponent' does not depend on any axioms
+'Shor1994Invalidation.source_graph_fiber' does not depend on any axioms
+'Shor1994Invalidation.graph_fiber_label' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.phase_residue_on_every_fiber' depends on axioms: [propext, Quot.sound]
+'Shor1994Invalidation.fiberNumerator' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.source_fourier_equals_fiber' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.fiber_numerator_exact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.fiber_amplitude_exact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.fiber_born_probability' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.good_pair_probability' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.good_pair_probability_positive' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.goodSecondFrequency' does not depend on any axioms
+'Shor1994Invalidation.every_index_is_complete_good_pair' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.every_complete_good_pair_exact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.every_complete_good_pair_has_unique_index' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor1994Invalidation.complete_good_pair_iff_indexed' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.phase_residue_all_good_indices' depends on axioms: [propext]
+'Shor1994Invalidation.fiberNumeratorAllGood' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.source_fourier_equals_all_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.source_raw_fourier_equals_all_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.fiber_numerator_all_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.fiber_amplitude_all_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.fiber_born_all_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.pair_probability_all_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.source_raw_pair_probability_all_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.total_good_probability' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.source_raw_total_good_probability' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.evenGoodIndices' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.even_good_indices_exact' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.even_good_indices_count' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.source_raw_divisible_good_probability' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.physical_conditional_bound_false' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.explicit_qft_root_pow' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.explicit_qft_root_normSq_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.explicit_qft_root_primitive' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Invalidation.actual_qft_conditional_bound_false' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGenerator.p_prime' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGenerator.fifth_power_target' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.full_power' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGenerator.half_residue' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.half_power' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.third_residue' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.third_power' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.seventh_residue' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.seventh_power' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.eleventh_residue' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.eleventh_power' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.thirteenth_residue' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.thirteenth_power' depends on axioms: [propext, Quot.sound]
+'ShorGenerator.generator_order' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorPrimorial.prime_product' depends on axioms: [propext]
+'ShorPrimorial.prime_factors' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorPrimorial.quotient_by_five' depends on axioms: [propext]
+'ShorPrimorial.above_p' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorPrimorial.quotient_by_seven' depends on axioms: [propext]
+'ShorPrimorial.below_p' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorPrimorial.no_larger_removal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorPrimorial.five_is_largest' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor1994Integrated.certified_prime_field_counterexample' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowFamily.GoodFirst' depends on axioms: [propext]
+'ShorWindowFamily.good_residue_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowFamily.every_good_coefficient_shape' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowFamily.each_index_is_good' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowFamily.good_first_iff_exact_lattice' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowFamily.no_good_unit_of_common_factor' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowFamily.SampleSuppliesUnit' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowFamily.no_finite_good_sample_supplies_unit' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowFamily.original_instance_is_a_family_member' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowSourceBridge.source_good_first_is_family_good_first' depends on axioms: [propext]
+'ShorWindowSourceBridge.source_complete_pair_has_no_unit' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorWindowSourceBridge.source_claim_false_via_general_family' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'ShorWindowSourceBridge.certified_source_counterexample_via_general_family' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LeanFiberVariance.norm_sum_sq_as_double_inner' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberVariance.pairwise_variance' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberVariance.normalized_fiber_variance' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberVariance.fiber_variance_zero_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberVariance.fiber_coherence_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberVariance.exact_coherence_defect' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFourierParseval.standard_character_conjugate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFourierParseval.standard_character_product' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFourierParseval.standard_character_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFourierParseval.twisted_inner' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFourierParseval.fourier_inner_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFourierParseval.vector_parseval' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.rawNumerator' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.amplitude' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.raw_fiber_formula' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.raw_zero_frequencies' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.standard_character_norm' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.standard_character_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.graph_preparation_normalized' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.amplitude_norm_sq' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.fourier_pair_probability' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.zero_pair_probability' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.raw_of_fiber_constant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.ideal_pair_law_of_fiber_constant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.line_probability_formula' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.line_probability_one_iff_fiber_constant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.ideal_pair_law_iff_fiber_constant' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.exact_fourier_line_defect' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.fiber_constant_iff_output_factor' depends on axioms: [propext, Quot.sound]
+'LeanFiberFourier.ideal_pair_law_iff_output_factor' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFiberFourier.unequal_fiber_vectors_forbid_ideal_law' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFourierNormalization.shifted_parseval' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanFourierNormalization.fixed_first_frequency_and_output_mass' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LeanFourierNormalization.total_probability_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanMeasurementNoGo.FinitePOVM' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanMeasurementNoGo.PerfectlyDistinguishes' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanMeasurementNoGo.wrong_effect_annihilates' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanMeasurementNoGo.correct_effect_fixes' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanMeasurementNoGo.perfect_discrimination_implies_orthogonal' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'LeanMeasurementNoGo.no_perfect_povm_of_nonzero_inner' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanMeasurementNoGo.decoded_measurement_gives_label_povm' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LeanMeasurementNoGo.no_perfect_decoded_povm_of_nonzero_inner' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'ShorGraphCopies.Register' does not depend on any axioms
+'ShorGraphCopies.Basis' does not depend on any axioms
+'ShorGraphCopies.outputWord' depends on axioms: [propext, Quot.sound]
+'ShorGraphCopies.graphVector' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGraphCopies.graphVector_apply' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGraphCopies.singleCopyAmplitude' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGraphCopies.graphVector_is_independent_copy_product' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGraphCopies.graphVector_norm_sq' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGraphCopies.graphVector_norm' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGraphCopies.graphVector_inner_re_pos' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorGraphCopies.graphVector_inner_ne_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorFiniteCopyNoGo.no_perfect_measurement_on_graph_copies' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorFiniteCopyNoGo.no_perfect_decoded_measurement_on_graph_copies' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'ShorFiniteCopyNoGo.normalized_states_and_no_perfect_measurement' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'ShorFiniteCopyNoGo.every_group_order_and_finite_copy_count' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.binary_control_stage_invariance' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.elliptic_116_six_of_seven_controls_identical' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.elliptic_116_mod4_upper_controls_identical' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.shor_100_six_of_seven_controls_identical' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.shor_101_multiplicative_sign_flip' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.coherence_block_phase_difference_invariance' depends on axioms: [propext, Quot.sound]
+'Shor2AdicTorsionHierarchy.residue_class_fiber_shift' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.residueClassFiberNumerator' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.residue_class_numerator_shifted_fiber' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.zmod_fiber_sum_invariant_on_residue_class' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.rounded_congruence_satisfied_by_entire_coset' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.modular_congruence_coset_invariance' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.GoodFirst1997' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.good_residue_zero_1997' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.every_good_coefficient_shape_1997' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.shor_100_good_table_row_1' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.shor_100_good_table_row_2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.shor_100_good_table_row_3' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.paddedGraphFiber' does not depend on any axioms
+'Shor2AdicTorsionHierarchy.padded_graph_fiber_period_step' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.padded_graph_fiber_half_period' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.rawPaddedFiberSum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.raw_padded_general_torsion_factorization' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.raw_padded_fiber_sum_factorization' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.zero_column_of_half_period_neg_one' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.elliptic_116_and_shor_100_zero_column_frequencies' does not depend on any axioms
+'Shor2AdicTorsionHierarchy.hadamardUnnorm' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.hadamardMod2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.hadamard_int_sq_eq_two_id' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.hadamard_mod2_sq_eq_zero' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.booleanSignCharacter' depends on axioms: [propext]
+'Shor2AdicTorsionHierarchy.boolean_sign_character_period_two' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicTorsionHierarchy.parity_twist_shifts_second_frequency' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.first_marginal_invariant_of_frequency_shift' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.even_reduced_order_collision_even_diff' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.parity_phase_product_one_of_same_parity' depends on axioms: [propext, Quot.sound]
+'Shor2AdicTorsionHierarchy.second_marginal_invariant_of_even_collisions' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicTorsionHierarchy.elliptic_116_and_shor_100_collisions_preserve_parity' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicMasterBridge.two_adic_workspace_line_defect_and_survival' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicMasterBridge.source_good_pair_sixteen_coset_blindness' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicMasterBridge.source_even_good_pair_thirty_two_coset_blindness' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'Shor2AdicMasterBridge.four_interlocking_shor_obstructions' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicQFTBridge.root_power_reduce' depends on axioms: [propext]
+'Shor2AdicQFTBridge.explicit_qft_128_root_primitive' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicQFTBridge.explicit_qft_128_root_pow' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicQFTBridge.explicit_qft_128_root_half_period' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicQFTBridge.certified_root_zero_columns' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicQFTBridge.actual_qft_zero_columns' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicQFTBridge.actual_qft_zero_column_born_mass' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicQFTBridge.GoodPair1997' depends on axioms: [propext]
+'Shor2AdicQFTBridge.shor_100_complete_table_rows' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Shor2AdicQFTBridge.odd_torsion_filter_counterexample' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorArithmeticStrengthening.GoodCoefficientKernel' depends on axioms: [propext]
+'ShorArithmeticStrengthening.all_good_congruences_exact_kernel' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'ShorArithmeticStrengthening.sixteen_distinct_common_candidates' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'ShorArithmeticStrengthening.power_two_modulus_for_96097' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.BalancedLabels' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.balanced_label_distance_sum' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.balanced_workspace_variance' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.balanced_workspace_variance_fraction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.balanced_workspace_line_defect_and_survival' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'ShorResidueWorkspace.two_adic_balanced_workspace_survival' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.labelWorkspace' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.label_workspace_norm' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.label_workspace_distance' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.canonical_label_workspace_survival' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.residueLabel' does not depend on any axioms
+'ShorResidueWorkspace.residue_labels_balanced' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.residue_workspace_variance' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.residue_workspace_line_survival' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ShorResidueWorkspace.two_adic_residue_workspace_line_survival' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]

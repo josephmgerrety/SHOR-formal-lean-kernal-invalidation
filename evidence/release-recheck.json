@@ -1,0 +1,81 @@
+{
+  "check": "Fresh rebuild and independent verification of the public source, followed by a separate direct check of the released gzip archive",
+  "started_utc": "2026-11-23T07:34:51.527Z",
+  "completed_utc": "2026-11-23T07:41:17.338Z",
+  "lean_version": "Lean (version 4.36.0, x86_64-w64-windows-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release)",
+  "mathlib_commit": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "compiled_units": 20,
+  "errors": 0,
+  "warnings": 0,
+  "export_sha256": "9FD7D3EBAEF59685DFF011EF27079E442FAD103B5C7E3C7FFE5447ED4B1D705A",
+  "identical_to_archived_export": true,
+  "all_published_module_source_hashes_match": true,
+  "declaration_count": 251,
+  "axiom_reports": 251,
+  "axiom_dependencies": [
+    "Classical.choice",
+    "propext",
+    "Quot.sound"
+  ],
+  "clean_source_scan": true,
+  "run_commands": [
+    {
+      "step": "suite-con-leche",
+      "exit_code": 0,
+      "expected": 0,
+      "elapsed_seconds": 25.6676771
+    },
+    {
+      "step": "suite-con-ron",
+      "exit_code": 0,
+      "expected": 0,
+      "elapsed_seconds": 30.9278135
+    },
+    {
+      "step": "suite-leanchecker",
+      "exit_code": 0,
+      "expected": 0,
+      "elapsed_seconds": 41.2224213
+    },
+    {
+      "step": "control-valid-con-leche",
+      "exit_code": 0,
+      "expected": 0,
+      "elapsed_seconds": 0.1586618
+    },
+    {
+      "step": "control-valid-con-ron",
+      "exit_code": 0,
+      "expected": 0,
+      "elapsed_seconds": 0.1351149
+    },
+    {
+      "step": "control-valid-leanchecker",
+      "exit_code": 0,
+      "expected": 0,
+      "elapsed_seconds": 0.2732717
+    },
+    {
+      "step": "control-invalid-con-leche",
+      "exit_code": 1,
+      "expected": 1,
+      "elapsed_seconds": 0.151624
+    },
+    {
+      "step": "control-invalid-con-ron",
+      "exit_code": 1,
+      "expected": 1,
+      "elapsed_seconds": 0.127432
+    }
+  ],
+  "direct_archive_check": {
+    "compressed_sha256": "C1D83B283C965A54ACF8FE89BA818FBA6DE9AB73CD1C7CB29485EE471CE6C974",
+    "exit_code": 0,
+    "output": [
+      "Export SHA-256 9FD7D3EBAEF59685DFF011EF27079E442FAD103B5C7E3C7FFE5447ED4B1D705A",
+      "con-leche: accepted 21530 declarations (--verified)",
+      "con-ron: accepted 21530 declarations (--verified)",
+      "Lean default kernel accepts the solution"
+    ]
+  }
+}

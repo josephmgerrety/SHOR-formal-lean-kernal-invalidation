@@ -1,0 +1,260 @@
+{
+  "record": "Original source build and independent checks",
+  "started_utc": "2026-11-23T04:57:06.493Z",
+  "completed_utc": "2026-11-23T05:00:19.820Z",
+  "compiler": "Lean (version 4.36.0, x86_64-w64-windows-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release)",
+  "mathlib_commit": "fc4f59e577feb1a4956671bc04ac18aaaf8cd842",
+  "mathlib_manifest_sha256": "B43C6668B441A9D4DFCD32FED7688266FB0EBA60F5F36109CF3B14F515EF334D",
+  "public_roots": 251,
+  "public_theorems": 202,
+  "root_list_sha256": "4C03E7608C9F4A0FAED6CDA80E08D646D967DC47C7DBC05515363C9A4BF5DA51",
+  "audited_axiom_dependencies": [
+    "Classical.choice",
+    "propext",
+    "Quot.sound"
+  ],
+  "export_sha256": "9FD7D3EBAEF59685DFF011EF27079E442FAD103B5C7E3C7FFE5447ED4B1D705A",
+  "export_bytes": 102795751,
+  "compressed_sha256": "C1D83B283C965A54ACF8FE89BA818FBA6DE9AB73CD1C7CB29485EE471CE6C974",
+  "compressed_bytes": 17021771,
+  "compile_warnings": 0,
+  "compile_errors": 0,
+  "checkers": [
+    {
+      "checker": "con-leche",
+      "exit_code": 0,
+      "elapsed_seconds": 12.9698925,
+      "stdout": "con-leche: accepted 21530 declarations (--verified)",
+      "command": "con-leche --verified --jobs=2 --progress=1000 suite.ndjson"
+    },
+    {
+      "checker": "con-ron",
+      "exit_code": 0,
+      "elapsed_seconds": 17.2705192,
+      "stdout": "con-ron: accepted 21530 declarations (--verified)",
+      "command": "con-ron --verified --jobs=2 --progress=1000 suite.ndjson"
+    },
+    {
+      "checker": "leanchecker",
+      "exit_code": 0,
+      "elapsed_seconds": 14.0787732,
+      "stdout": "Lean default kernel accepts the solution",
+      "command": "leanchecker --from-export suite.ndjson"
+    }
+  ],
+  "executable_sha256": [
+    {
+      "name": "lean",
+      "sha256": "F567CC855E5F8006F65076BC813711D581EDBAE54F1D1D138462E7114351B532"
+    },
+    {
+      "name": "lake",
+      "sha256": "FD15D19AEDD70272E2B405BD4F26CE936A9198B9748996DD0BCDDCDDE0423218"
+    },
+    {
+      "name": "leanexport",
+      "sha256": "9E5CBE27D714A7C16DC3E35881A6A66C871EC4339C1BB15F640F8998AA0DDCC5"
+    },
+    {
+      "name": "leanchecker",
+      "sha256": "51F6B4098BB0D5B4A4DE5C5F8501FAC0C53D7236137B3F32D56B7E2717D05853"
+    },
+    {
+      "name": "con-leche",
+      "sha256": "5DC6D10F2608E217464B92FBCF823DBFF3FC82F80F2610654DA5D0B5F58E8538"
+    },
+    {
+      "name": "con-ron",
+      "sha256": "D9CFDA21442DA3B5151DA9387CECF7AB64FF6A82CEDE8F6689A36AB92D204F74"
+    }
+  ],
+  "compiled_sources": [
+    {
+      "module": "Shor1994Invalidation",
+      "file": "Shor1994Invalidation.lean",
+      "sha256": "65A2B88B6813F5DE57004369A45C5C7CC82B2CC89E169BEA86A066FE8B9544D0",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "ShorGeneratorCertificate",
+      "file": "ShorGeneratorCertificate.lean",
+      "sha256": "F22CA20DDCDE4E7821EA47ABB5A0206E9BB587FA55B623B4A5171DC6A8CDA64B",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "ShorPrimorialCertificate",
+      "file": "ShorPrimorialCertificate.lean",
+      "sha256": "C0432143F755938D0553920A0EE920E66DA23DF56BF8C76734176BD9FA3BF09B",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "Shor1994Integrated",
+      "file": "Shor1994Integrated.lean",
+      "sha256": "6C6754C771F9D7A54D1735A28E49B89D4EB81D18E274C5949D1D0B38EC954B3A",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "ShorWindowFamily",
+      "file": "ShorWindowFamily.lean",
+      "sha256": "40394FF2A245E7FB5A37221467B4479DA565F779BA40F37B404204FD88A6D3C7",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "ShorWindowSourceBridge",
+      "file": "ShorWindowSourceBridge.lean",
+      "sha256": "A707D7B9621F297159383B736F15656821979AB3262A72E8145CB0838B04C0DA",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "LeanFiberVariance",
+      "file": "LeanFiberVariance.lean",
+      "sha256": "072542423D7F3DEA20F24A9252B133AFDBE404CE8836BCB4C6982136C37FAC5B",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "LeanFourierParseval",
+      "file": "LeanFourierParseval.lean",
+      "sha256": "8BCBD15CD22312DCB59CE54E955B09EF684503183098E11AAD90455E5A47AF7A",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "LeanFiberFourier",
+      "file": "LeanFiberFourier.lean",
+      "sha256": "E3272F87ED4BB8AF85BE271952CC2EF6DF4AC954A7A143BC36C384E6E3421BBA",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "LeanFourierNormalization",
+      "file": "LeanFourierNormalization.lean",
+      "sha256": "BD08159BAF221C840E16D63942F538910066BC600D4DD4BE998351CD48706BE1",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "LeanMeasurementNoGo",
+      "file": "LeanMeasurementNoGo.lean",
+      "sha256": "490E79A3BBD2972C98DA59B9766563CB180CEC81702C955D425B43BE054CA0F3",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "LeanGraphCopies",
+      "file": "LeanGraphCopies.lean",
+      "sha256": "5991EF514098A466B6F16400E57C1747257D3217B3FDE617BA040A305E746F5E",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "LeanFiniteCopyNoGo",
+      "file": "LeanFiniteCopyNoGo.lean",
+      "sha256": "82F840E903E17480732B8D77AB4784A6863ECF1C068EBE415CD1D473A527CB7C",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "Shor2AdicTorsionHierarchy",
+      "file": "Shor2AdicTorsionHierarchy.lean",
+      "sha256": "781A3145DBD50D921A7B2723FCE8DC33E76212B2E12E41FBB96244BC019DF25C",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "Shor2AdicQFTBridge",
+      "file": "Shor2AdicQFTBridge.lean",
+      "sha256": "515B18084E603DB522AFC5CF17DA97FE00F8F518357B18C8A3CD5580F3AE7192",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "ShorArithmeticStrengthening",
+      "file": "ShorArithmeticStrengthening.lean",
+      "sha256": "982B903772D63753DB0284F9AF68C75011DFF9D3F63880FD5ECDB2229ACB1357",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "Shor2AdicMasterBridge",
+      "file": "Shor2AdicMasterBridge.lean",
+      "sha256": "A30DECA71D75A7E40566F1BEE9A832B53363E44CDDF9F2922F3ED36023084264",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "ShorResidueWorkspace",
+      "file": "ShorResidueWorkspace.lean",
+      "sha256": "A5CF2042C529FEF522E32A51DA0E1A5834B12F15A851D063674F9A87B35B5D9C",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "ShorSuite",
+      "file": "ShorSuite.lean",
+      "sha256": "8ECE2C2A66580FE2A481A8318DC6E670BFA3AE5341BADF086901CB34C876A291",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    },
+    {
+      "module": "AxiomAudit",
+      "file": "AxiomAudit.lean",
+      "sha256": "8DE247CF41F2E2868EB4E3B15B3ED87584BD8FD8C423CCB331AB687C3D543DFE",
+      "exit_code": 0,
+      "warnings": 0,
+      "errors": 0
+    }
+  ],
+  "controls": [
+    {
+      "name": "control-valid-con-leche",
+      "exit_code": 0,
+      "expected": 0
+    },
+    {
+      "name": "control-valid-con-ron",
+      "exit_code": 0,
+      "expected": 0
+    },
+    {
+      "name": "control-valid-leanchecker",
+      "exit_code": 0,
+      "expected": 0
+    },
+    {
+      "name": "control-invalid-con-leche",
+      "exit_code": 1,
+      "expected": 1
+    },
+    {
+      "name": "control-invalid-con-ron",
+      "exit_code": 1,
+      "expected": 1
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+[suite-con-leche]  exit=0  expected=0
+stdout
+con-leche: accepted 21530 declarations (--verified)
+stderr
+con-leche: 1 inductive blocks modelled in-process: Lean.Syntax (30 generated records, checked by the fold as declarations and not counted as records of the file)
+con-leche: parse done: 21560 fold records — 21552 declarations after the 8 built-in prelude records (8 stream copies of prelude records dropped) t=0.5s (parse 0.5s)
+con-leche: install 0/21560 basis block ConLeche.BasisKind.eqK t=0.5s
+con-leche: install 1000/21560 def Int.ediv.match_1 t=2.6s
+con-leche: install 2000/21560 def Lean.Grind.CommRing.Poly.addConst_k t=2.7s
+con-leche: install 3000/21560 theorem Nat.add_mod_mod t=2.8s
+con-leche: install 4000/21560 theorem Ring.toNonUnitalRing._proof_5 t=2.9s
+con-leche: install 5000/21560 def instTransLT t=3.0s
+con-leche: install 6000/21560 theorem Multiset.nodup_singleton t=3.1s
+con-leche: install 7000/21560 theorem rat_mul_continuous_lemma t=3.1s
+con-leche: install 8000/21560 def CauSeq.Completion.Cauchy.field t=3.3s
+con-leche: install 9000/21560 theorem not_imp_not t=3.3s
+con-leche: install 10000/21560 theorem Set.disjoint_left t=3.4s
+con-leche: install 11000/21560 theorem Filter.nonempty_of_mem t=3.5s
+con-leche: install 12000/21560 inductive IsTopologicalAddGroup t=3.5s
+con-leche: install 13000/21560 def WithTop.instSemigroupWithZero t=3.6s
+con-leche: install 14000/21560 theorem TopologicalSpace.PseudoMetrizableSpace.exists_countably_generated t=3.7s
+con-leche: install 15000/21560 theorem Multiset.Nodup.product t=3.8s
+con-leche: install 16000/21560 theorem Shor1994Invalidation.explicit_qft_root_pow t=3.9s
+con-leche: install 17000/21560 theorem Equiv.prodCongr._proof_4 t=3.9s
+con-leche: install 18000/21560 def pow_mem._f t=4.0s
+con-leche: install 19000/21560 def Metric.unitSphere.instMonoid._aux_1 t=4.1s
+con-leche: install 20000/21560 theorem RCLike.norm_conj t=4.2s
+con-leche: install 21000/21560 theorem AddEquiv.module._proof_2 t=4.2s
+con-leche: install done: 21560/21560 declarations installed, 20882 checks pending t=4.3s (install 3.7s)
+con-leche: check 1000/20882 theorem Int.natAbs_negOfNat t=4.5s
+con-leche: check 2000/20882 theorem Nat.le_add_of_sub_le t=4.8s
+con-leche: check 3000/20882 theorem Setoid.iseqv t=5.1s
+con-leche: check 4000/20882 definition StrictMonoOn t=5.5s
+con-leche: check 5000/20882 theorem Int.mul_tdiv_cancel t=5.9s
+con-leche: check 6000/20882 theorem Multiset.mem_of_subset t=6.2s
+con-leche: check 7000/20882 theorem le_inf_iff._simp_1 t=6.6s
+con-leche: check 8000/20882 definition _private.Mathlib.Algebra.Order.CauSeq.Basic.0.CauSeq.add_pos.match_1_5 t=7.2s
+con-leche: check 9000/20882 theorem Set.orderIsoOfEq._proof_1 t=7.8s
+con-leche: check 10000/20882 theorem Set.Icc_eq_empty t=8.0s
+con-leche: check 11000/20882 definition Bornology.ofDist t=8.3s
+con-leche: check 12000/20882 theorem Lean.Grind.CommRing.Stepwise.d_init t=8.6s
+con-leche: check 13000/20882 theorem WithTop.lt_iff_exists_coe t=9.0s
+con-leche: check 14000/20882 definition NonUnitalRingHom.toMulHom t=9.2s
+con-leche: check 15000/20882 definition _private.Mathlib.Tactic.NormNum.Ineq.0.Mathlib.Meta.NormNum.isRat_le_true.match_1_1 t=9.7s
+con-leche: check 16000/20882 definition instMulActionNatOfAddMonoid t=10.4s
+con-leche: check 17000/20882 theorem Cardinal.natCast_add_one_le_iff t=10.7s
+con-leche: check 18000/20882 theorem LinearMap.instAdd._proof_2 t=11.0s
+con-leche: check 19000/20882 theorem ZMod.toAddCircle_intCast t=11.5s
+con-leche: check 20000/20882 theorem Real.young_inequality_of_nonneg t=12.1s
+con-leche: check done: 20882/20882 t=12.8s (check 8.5s)
+con-leche: done: parse 0.5s, install 3.7s, check 8.5s, 2 workers t=12.8s
+
+[suite-con-ron]  exit=0  expected=0
+stdout
+con-ron: accepted 21530 declarations (--verified)
+stderr
+con-ron: 1 inductive blocks modelled in-process: Lean.Syntax (30 generated records, checked by the fold as declarations and not counted as records of the file)
+con-ron: parse done: 21560 fold records — 21552 declarations after the 8 built-in prelude records (8 stream copies of prelude records dropped) t=0.505s (parse 0.505s)
+con-ron: install 0/21560 basis t=0.505s
+con-ron: install 1000/21560 def Int.ediv.match_1 t=2.918s
+con-ron: install 2000/21560 def Lean.Grind.CommRing.Poly.addConst_k t=3.116s
+con-ron: install 3000/21560 thm Nat.add_mod_mod t=3.220s
+con-ron: install 4000/21560 thm Ring.toNonUnitalRing._proof_5 t=3.377s
+con-ron: install 5000/21560 def instTransLT t=3.524s
+con-ron: install 6000/21560 thm Multiset.nodup_singleton t=3.686s
+con-ron: install 7000/21560 thm rat_mul_continuous_lemma t=3.851s
+con-ron: install 8000/21560 def CauSeq.Completion.Cauchy.field t=4.082s
+con-ron: install 9000/21560 thm not_imp_not t=4.225s
+con-ron: install 10000/21560 thm Set.disjoint_left t=4.439s
+con-ron: install 11000/21560 thm Filter.nonempty_of_mem t=4.598s
+con-ron: install 12000/21560 inductive IsTopologicalAddGroup t=4.854s
+con-ron: install 13000/21560 def WithTop.instSemigroupWithZero t=5.082s
+con-ron: install 14000/21560 thm TopologicalSpace.PseudoMetrizableSpace.exists_countably_generated t=5.348s
+con-ron: install 15000/21560 thm Multiset.Nodup.product t=5.753s
+con-ron: install 16000/21560 thm Shor1994Invalidation.explicit_qft_root_pow t=5.951s
+con-ron: install 17000/21560 thm Equiv.prodCongr._proof_4 t=6.034s
+con-ron: install 18000/21560 def pow_mem._f t=6.249s
+con-ron: install 19000/21560 def Metric.unitSphere.instMonoid._aux_1 t=6.644s
+con-ron: install 20000/21560 thm RCLike.norm_conj t=6.986s
+con-ron: install 21000/21560 thm AddEquiv.module._proof_2 t=7.121s
+con-ron: install done: 21560/21560 declarations installed, 20882 checks pending t=7.195s (install 6.690s)
+con-ron: check 1000/20882 theorem Int.natAbs_negOfNat t=7.299s
+con-ron: check 2000/20882 theorem Nat.le_add_of_sub_le t=7.576s
+con-ron: check 3000/20882 theorem Setoid.iseqv t=7.968s
+con-ron: check 4000/20882 definition StrictMonoOn t=8.424s
+con-ron: check 5000/20882 theorem Int.mul_tdiv_cancel t=8.929s
+con-ron: check 6000/20882 theorem Multiset.mem_of_subset t=9.252s
+con-ron: check 7000/20882 theorem le_inf_iff._simp_1 t=9.749s
+con-ron: check 8000/20882 definition _private.Mathlib.Algebra.Order.CauSeq.Basic.0.CauSeq.add_pos.match_1_5 t=10.367s
+con-ron: check 9000/20882 theorem Set.orderIsoOfEq._proof_1 t=11.110s
+con-ron: check 10000/20882 theorem not_le._simp_1 t=11.396s
+con-ron: check 11000/20882 definition Bornology.ofDist t=11.667s
+con-ron: check 12000/20882 theorem Lean.Grind.CommRing.Stepwise.d_init t=12.037s
+con-ron: check 13000/20882 theorem WithTop.lt_iff_exists_coe t=12.475s
+con-ron: check 14000/20882 definition NonUnitalRingHom.toMulHom t=12.755s
+con-ron: check 15000/20882 definition _private.Mathlib.Tactic.NormNum.Ineq.0.Mathlib.Meta.NormNum.isRat_le_true.match_1_1 t=13.266s
+con-ron: check 16000/20882 definition instMulActionNatOfAddMonoid t=14.223s
+con-ron: check 17000/20882 theorem Cardinal.natCast_add_one_le_iff t=14.531s
+con-ron: check 18000/20882 theorem LinearMap.instAdd._proof_2 t=14.882s
+con-ron: check 19000/20882 theorem ZMod.toAddCircle_intCast t=15.452s
+con-ron: check 20000/20882 theorem Real.young_inequality_of_nonneg t=16.111s
+con-ron: check done: 20882/20882 t=17.026s (check 9.831s)
+con-ron: done: parse 0.505s, install 6.690s, check 9.831s, 2 workers t=17.026s
+
+[suite-leanchecker]  exit=0  expected=0
+stdout
+Lean default kernel accepts the solution
+stderr
+
+
+[control-valid-con-leche]  exit=0  expected=0
+stdout
+con-leche: accepted 26 declarations (--verified)
+stderr
+con-leche: parse done: 30 fold records — 22 declarations after the 8 built-in prelude records (4 stream copies of prelude records dropped) t=0.0s (parse 0.0s)
+con-leche: install 0/30 basis block ConLeche.BasisKind.eqK t=0.0s
+con-leche: install done: 30/30 declarations installed, 17 checks pending t=0.0s (install 0.0s)
+con-leche: check done: 17/17 t=0.0s (check 0.0s)
+con-leche: done: parse 0.0s, install 0.0s, check 0.0s, 2 workers t=0.0s
+
+[control-valid-con-ron]  exit=0  expected=0
+stdout
+con-ron: accepted 26 declarations (--verified)
+stderr
+con-ron: parse done: 30 fold records — 22 declarations after the 8 built-in prelude records (4 stream copies of prelude records dropped) t=0.009s (parse 0.009s)
+con-ron: install 0/30 basis t=0.009s
+con-ron: install done: 30/30 declarations installed, 17 checks pending t=0.011s (install 0.002s)
+con-ron: check done: 17/17 t=0.012s (check 0.001s)
+con-ron: done: parse 0.009s, install 0.002s, check 0.001s, 2 workers t=0.012s
+
+[control-valid-leanchecker]  exit=0  expected=0
+stdout
+Lean default kernel accepts the solution
+stderr
+
+
+[control-invalid-con-leche]  exit=1  expected=1
+stdout
+
+stderr
+con-leche: parse done: 30 fold records — 22 declarations after the 8 built-in prelude records (4 stream copies of prelude records dropped) t=0.0s (parse 0.0s)
+con-leche: install 0/30 basis block ConLeche.BasisKind.eqK t=0.0s
+con-leche: install done: 30/30 declarations installed, 17 checks pending t=0.0s (install 0.0s)
+con-leche: check failed at fold position 29 t=0.0s (check 0.0s)
+con-leche: done: parse 0.0s, install 0.0s, check 0.0s, 2 workers t=0.0s
+con-leche: invalid: type mismatch in theorem CheckerControl.swap_and [at theorem CheckerControl.swap_and, fold position 29] (--verified) t=0.0s
+
+[control-invalid-con-ron]  exit=1  expected=1
+stdout
+
+stderr
+con-ron: parse done: 30 fold records — 22 declarations after the 8 built-in prelude records (4 stream copies of prelude records dropped) t=0.012s (parse 0.012s)
+con-ron: install 0/30 basis t=0.013s
+con-ron: install done: 30/30 declarations installed, 17 checks pending t=0.014s (install 0.002s)
+con-ron: check failed at fold position 29 t=0.015s (check 0.001s)
+con-ron: done: parse 0.012s, install 0.002s, check 0.001s, 2 workers t=0.015s
+con-ron: rejected: type mismatch in declaration [at thm CheckerControl.swap_and, fold position 29] (--verified) t=0.015s
