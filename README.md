@@ -1,6 +1,6 @@
 # Shor's Algorithm — Lean Kernel Invalidation
 
-**Joseph M. Gerrety 
+Joseph M. Gerrety 
 
 ## Introduction
 
